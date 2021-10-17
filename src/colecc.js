@@ -1,0 +1,1 @@
+db.col001.insertOne ({x: "Mi primer proyecto en Visual Studio Code"})
